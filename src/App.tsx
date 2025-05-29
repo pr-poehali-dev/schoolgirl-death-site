@@ -1,7 +1,7 @@
-import PortraitGallery from "./components/PortraitGallery";
+import MemorialSite from "./components/MemorialSite";
 
 function App() {
-  return <PortraitGallery />;
+  return <MemorialSite />;
 }
 
 export default App;
